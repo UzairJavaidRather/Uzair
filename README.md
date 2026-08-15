@@ -26,15 +26,11 @@
 - 🤝 Open to collaborating on learning projects and coding challenges
 - ⚡ Fun fact: I debug better with coffee ☕
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
+<!-- <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=UzairJavaidRather&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=12)
 
-</div>
+</div> -->
 
 ---
 
@@ -68,8 +64,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
@@ -78,11 +72,11 @@
 
 | Area | Focus |
 |------|-------|
-| 🐍 Python | Advanced libraries, scripting, automation |
+| 🐍 Python | Advanced libraries, scripting, Visualisation |
 | 🌐 Web Dev | Full-Stack apps, responsive UI, REST APIs |
 | 🧠 DSA | Algorithms, data structures, problem patterns |
 | 🔁 Git | Workflows, branching strategies, open source |
-| ☕ Java | OOP principles, design patterns |
+| ☕ C++ | OOP principles, design patterns |
 
 
 ---
