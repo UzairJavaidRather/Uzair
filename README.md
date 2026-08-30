@@ -34,17 +34,6 @@
 
 ---
 
-## 🗓️ Monthly Contribution Activity
-
-<div align="center">
-
-<!-- Activity Graph — shows daily contributions over last few months -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UzairJavaidRather&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="100%"/>
-
-</div>
-
----
-
 ## 💡 Skills & Technologies
 
 ### 🔤 Languages
