@@ -21,10 +21,9 @@
 > *"Code is the closest thing we have to a superpower."*
 
 - 🎓 **CSE Student** — passionate about writing code that actually matters
-- 🔭 Currently sharpening: **Full-Stack Web Dev**, **Python**, **DSA**, and **OOP**
+- 🔭 Currently sharpening: **Full-Stack Web Dev**, **DSA**, and **OOP**
 - 🌱 Believer in learning in public and building in the open
 - 🤝 Open to collaborating on learning projects and coding challenges
-- ⚡ Fun fact: I debug better with coffee ☕
 
 <!-- <div align="center">
 
